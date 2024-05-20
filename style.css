@@ -95,10 +95,10 @@ body{
         justify-content: center;
         align-items: center;
         img{
-            width:12rem;
+            position: absolute;
+            width:12.5rem;
             height:20rem;
-            border-radius:0.5rem;
-            padding:0.5rem;
+            border-radius:1rem;
         }
         img:nth-child(1){
             z-index:1;
